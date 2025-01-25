@@ -68,7 +68,6 @@ else {
 document.write(`<hr>`)
 
 document.write(`<h2>Hatodik feladat!</h2>`);
-
 for (let i = 1; i <= 10; i++) {
     document.write(`A(z) ${i}. négyzetszám: ${i * i}<br>`);
 }
